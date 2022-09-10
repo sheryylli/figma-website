@@ -12,7 +12,7 @@ const App = () => (
       <Header />
     </div>
     <Brand />
-    <WhatGPT3 />
+   // <WhatGPT3 />
     <Features />
     <Possibility />
     <CTA />
