@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@400;500;600&family=Playfair+Display&family=Roboto+Slab:wght@300;400;600&display=swap');
 
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Playfair Display', serif;
 }
 
 body {
